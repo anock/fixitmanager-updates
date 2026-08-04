@@ -1,16 +1,16 @@
   [
       {
         "id": 2,
-        "version": "1.2.0",
-        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/1.2.0/update-v1.2.0.zip",
+        "version": "1.2.5",
+        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/1.2.5/update-v1.2.5.zip",
         "release_notes": "• Versão de testes beta.",
         "is_mandatory": false,
         "target_machine_ids": ""
       },
       {
         "id": 1,
-        "version": "1.2.5",
-        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/1.2.5/update-v1.2.5.zip",
+        "version": "1.2.6",
+        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/1.2.6/update-v1.2.6.zip",
         "release_notes": "• Versão com correções de bugs e melhorias.",
         "is_mandatory": false,
         "target_machine_ids": ""
