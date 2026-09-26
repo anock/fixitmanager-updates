@@ -9,9 +9,9 @@
       },
       {
         "id": 1,
-        "version": "1.2.7",
+        "version": "1.4.0",
         "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/1.4.0/update-v1.4.0.zip",
-        "release_notes": "• Versão com correções de bugs e melhorias.",
+        "release_notes": "• Versão com correções de bugs e melhorias,novas implementações",
         "is_mandatory": false,
         "target_machine_ids": ""
       }
