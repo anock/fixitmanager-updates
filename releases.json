@@ -20,7 +20,7 @@
         "version": "1.4.1",
         "download_url": "https://github.com/anock/FixItManager/releases/download/v1.4.1/FixItManager_Standalone.zip",
         "release_notes": "• Correção no auto-reparo de schemas do banco SQLite para todos oscadastros (Fornecedores, Produtos, Clientes, etc.)\n• Correção na abertura e fechamento do
-         Caixa no PDV\n• Inicialização automática do Servidor Web integrado (porta 5000)\n• Melhorias gerais de performance e estabilidade",
+         Caixa no PDV\n• Inicialização automática do Servidor Web integrado (porta 5000)\n• Melhorias gerais de performance e estabilidade."
         "is_mandatory": false,
         "target_machine_ids": null,
         "created_at": "2026-10-01T19:00:00Z"
