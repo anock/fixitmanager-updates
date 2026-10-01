@@ -18,7 +18,7 @@
       {
         "id": 1,
         "version": "1.4.1",
-        "download_url": "https://github.com/anock/FixItManager/releases/download/v1.4.1/FixItManager_Standalone.zip",
+        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/v1.4.1/FixItManager_Standalone.zip",
         "release_notes": "Inicialização automática do Servidor Web integrado (porta 5000)\n• Melhorias gerais de performance e estabilidade.",
         "is_mandatory": false,
         "target_machine_ids": null,
