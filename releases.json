@@ -8,11 +8,11 @@
         "target_machine_ids": ""
       },
       {
-        "id": 1,
+       "id": 1,
         "version": "1.4.0",
-        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/1.4.0/update-v1.4.0.zip",
-        "release_notes": "• Versão com correções de bugs e melhorias,novas implementações",
+        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/1.4.0/FixItManager_v1.4.0_Setup.exe",
+        "release_notes": "• Atualização para a versão 1.4.0 com melhorias no sistema, correções no PDV eatualização automática robusta.",
         "is_mandatory": false,
-        "target_machine_ids": ""
+        "target_machine_ids": null
       }
     ]
