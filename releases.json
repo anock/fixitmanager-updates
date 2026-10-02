@@ -32,5 +32,14 @@
         "is_mandatory": false,
         "target_machine_ids": "",
         "created_at": "2026-10-02T13:00:00Z"
-      }
+      },
+    {
+        "id": 5,
+        "version": "1.4.4",
+        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/v1.4.4/FixItManager_v1.4.4_Setup.exe",
+        "release_notes": "• Atualização para a versão 1.4.4. Melhorias de inicialização e performance.",
+        "is_mandatory": false,
+        "target_machine_ids": "",
+        "created_at": "2026-10-02T13:00:00Z"
+      },
     ]
