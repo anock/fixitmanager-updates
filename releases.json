@@ -24,4 +24,13 @@
         "target_machine_ids": "",
         "created_at": "2026-10-02T13:00:00Z"
       }
+     {
+        "id": 1,
+        "version": "1.4.3",
+        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/v1.4.3/FixItManager_v1.4.3_Setup.exe",
+        "release_notes": "• Atualização para a versão 1.4.2.\n• Correção da cor da Toolbar (degradê azul padrão).\n• Sincronização do tema claro no servidor Web.\n• Melhorias de inicialização e performance.",
+        "is_mandatory": false,
+        "target_machine_ids": "",
+        "created_at": "2026-10-02T13:00:00Z"
+      }
     ]
