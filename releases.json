@@ -18,7 +18,7 @@
       {
         "id": 1,
         "version": "1.4.2",
-        "download_url": "https://github.com/anock/FixItManager/releases/download/v1.4.2/FixItManager_v1.4.2_Setup.exe",
+        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/v1.4.2/FixItManager_v1.4.2_Setup.exe",
         "release_notes": "• Correção da barra superior (Toolbar) com degradê azul padrão.\n• Correção do modo claro no servidor Web.\n•Inicialização automática e estável do Blazor e WebView2.\n• Melhoriasgerais de performance e estabilidade.",
         "is_mandatory": false,
         "target_machine_ids": "",
