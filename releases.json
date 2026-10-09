@@ -51,4 +51,13 @@
         "target_machine_ids": "",
         "created_at": "2026-10-02T13:00:00Z"
       },
+     {
+        "id": 7,
+        "version": "1.4.6",
+        "download_url": "https://github.com/anock/fixitmanager-updates/releases/download/v1.4.6/FixItManager_v1.4.6_Setup.exe",
+        "release_notes": "•Melhorias de inicialização e performance, implementação do tema liquid glass, tutorial interativo e manual de usabilidade ",
+        "is_mandatory": false,
+        "target_machine_ids": "",
+        "created_at": "2026-10-02T13:00:00Z"
+      },
     ]
